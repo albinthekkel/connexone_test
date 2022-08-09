@@ -13,7 +13,7 @@ once installation is done, Run
 Runs the Front end app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Then Run
+Then Run the following script in another terminal window of the same location
 
 ### `nodemon app.js`
 
