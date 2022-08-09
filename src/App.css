@@ -31,3 +31,8 @@
   border-right: 1px solid rgb(143, 136, 136);
   color: black;
 }
+
+.row > * {
+  width: 50%;
+  max-width: 50%;
+}
